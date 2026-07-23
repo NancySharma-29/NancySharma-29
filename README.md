@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Nancy! 👋
 
-<!--
-**NancySharma-29/NancySharma-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Analyst & BCA Graduate** passionate about uncovering meaningful insights from raw data, building data pipelines, and creating interactive visual dashboards.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+* **Languages:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+* **Data Visualization:** Power BI, Tableau, Excel
+* **Databases:** MySQL, PostgreSQL
+* **Other Tools:** Git, GitHub, VS Code, Jupyter Notebooks
+
+---
+
+### 📌 What I Do
+- 📊 **Data Cleaning & Analysis:** Transforming messy datasets into structured, ready-to-analyze formats.
+- 📈 **Business Dashboards:** Building intuitive visual summaries to answer business questions.
+- 💡 **Problem Solving:** Applying an analytical mindset strengthened through corporate simulation projects.
+
+---
+
+### 📬 Connect With Me
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nancy-sharma-8ab256317/
+- 📧 **Email:** nsharma292004@gmail.com
+- 🌐 **Portfolio:** [Add Portfolio Link Here]

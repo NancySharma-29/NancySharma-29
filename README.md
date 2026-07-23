@@ -7,7 +7,7 @@ I'm a **Data Analyst & BCA Graduate** passionate about uncovering meaningful ins
 ### 🛠️ Tech Stack & Skills
 * **Languages:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
 * **Data Visualization:** Power BI, Tableau, Excel
-* **Databases:** MySQL, PostgreSQL
+* **Databases:** MySQL, MongoDB
 * **Other Tools:** Git, GitHub, VS Code, Jupyter Notebooks
 
 ---
